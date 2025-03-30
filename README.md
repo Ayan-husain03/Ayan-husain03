@@ -12,7 +12,7 @@
  ## 📬 Connect with Me
 
 - 📧 Email: hussainayan9897@gmail.com
-- [💼 Linkedin ] (https://www.linkedin.com/in/ayan-husain-7827782b8/)
+- [💼 Linkedin ](https://www.linkedin.com/in/ayan-husain-7827782b8/)
 
   ## 😄 Fun Fact
   - I believe that every bug has a hidden lesson, and solving it makes me a better developer!
