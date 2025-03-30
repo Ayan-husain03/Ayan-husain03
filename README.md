@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayan-husain03
+- # 👋 Hi, I’m @Ayan-husain03
 - 👀 I’m interested in full stack web developement
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
