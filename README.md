@@ -1,5 +1,4 @@
- # Hi, I’m @Ayan-husain03
- # 👋
+ # Hi, I’m @Ayan-husain03 👋
  ### 🚀 Aspiring Full-Stack Developer | 🍀 Currently diving deep into MERN stack
 
  ## 💡 About Me
