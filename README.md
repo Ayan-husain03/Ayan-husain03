@@ -91,3 +91,7 @@
 ---
 
 ⭐ **If you like my work, feel free to star my repositories!**
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Ayan-husain03/Ayan-husain03/blob/output/github-contribution-grid-snake.svg)
